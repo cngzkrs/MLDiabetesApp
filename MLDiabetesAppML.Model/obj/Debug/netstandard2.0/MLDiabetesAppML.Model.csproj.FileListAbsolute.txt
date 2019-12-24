@@ -1,0 +1,9 @@
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\bin\Debug\netstandard2.0\MLDiabetesAppML.Model.deps.json
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\bin\Debug\netstandard2.0\MLDiabetesAppML.Model.dll
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\bin\Debug\netstandard2.0\MLDiabetesAppML.Model.pdb
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\obj\Debug\netstandard2.0\MLDiabetesAppML.Model.csprojAssemblyReference.cache
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\obj\Debug\netstandard2.0\MLDiabetesAppML.Model.AssemblyInfoInputs.cache
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\obj\Debug\netstandard2.0\MLDiabetesAppML.Model.AssemblyInfo.cs
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\obj\Debug\netstandard2.0\MLDiabetesAppML.Model.dll
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.Model\obj\Debug\netstandard2.0\MLDiabetesAppML.Model.pdb

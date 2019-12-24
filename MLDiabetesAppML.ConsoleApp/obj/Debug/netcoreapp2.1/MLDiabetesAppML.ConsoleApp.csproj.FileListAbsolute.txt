@@ -1,0 +1,14 @@
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.deps.json
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.runtimeconfig.json
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.dll
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.pdb
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.Model.dll
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLDiabetesAppML.Model.pdb
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\obj\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\obj\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\obj\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.AssemblyInfo.cs
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\obj\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.csproj.CopyComplete
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\obj\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.dll
+C:\Users\BIM2842\source\repos\MLDiabetesApp\MLDiabetesAppML.ConsoleApp\obj\Debug\netcoreapp2.1\MLDiabetesAppML.ConsoleApp.pdb
